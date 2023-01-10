@@ -1,4 +1,6 @@
 Hi there!
 
-- 🌱 I’m currently learning Front-end Development and Java!
+I'm a Junior Front-End Developer and Designer, UX Designer and I have a BBA.
+
+🌱 Currently learning Java!
 
